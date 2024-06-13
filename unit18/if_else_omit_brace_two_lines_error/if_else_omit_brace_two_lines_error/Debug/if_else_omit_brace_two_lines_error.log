@@ -1,0 +1,2 @@
+﻿  if_else_omit_brace_two_lines_error.c
+C:\Users\Lee\OneDrive\공부\C언어 코딩도장\unit18\if_else_omit_brace_two_lines_error\if_else_omit_brace_two_lines_error\if_else_omit_brace_two_lines_error.c(9,2): error C2181: if와 짝을 이루지 않는 잘못된 else문입니다.

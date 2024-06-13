@@ -1,0 +1,2 @@
+﻿  scope_error.c
+C:\Users\Lee\OneDrive\공부\전공독서\프로그래밍 언어\C언어 코딩도장\unit78\scope_error\scope_error\scope_error.c(7,21): error C2065: 'num1': 선언되지 않은 식별자입니다.

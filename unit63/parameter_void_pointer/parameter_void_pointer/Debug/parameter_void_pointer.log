@@ -1,0 +1,4 @@
+﻿  parameter_void_pointer.c
+C:\Users\Lee\OneDrive\공부\전공독서\프로그래밍 언어\C언어 코딩도장\unit63\parameter_void_pointer\parameter_void_pointer\parameter_void_pointer.c(50,23): warning C4022: 'swapValue': 실제 매개 변수 2의 포인터가 일치하지 않습니다.
+C:\Users\Lee\OneDrive\공부\전공독서\프로그래밍 언어\C언어 코딩도장\unit63\parameter_void_pointer\parameter_void_pointer\parameter_void_pointer.c(50,35): warning C4020: 'swapValue': 실제 매개 변수가 너무 많습니다.
+  parameter_void_pointer.vcxproj -> C:\Users\Lee\OneDrive\공부\전공독서\프로그래밍 언어\C언어 코딩도장\unit63\parameter_void_pointer\Debug\parameter_void_pointer.exe

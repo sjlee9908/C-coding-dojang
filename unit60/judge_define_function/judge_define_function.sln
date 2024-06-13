@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "judge_define_function", "judge_define_function\judge_define_function.vcxproj", "{02CC806B-CD36-4F96-93A7-3BDE761BBFC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02CC806B-CD36-4F96-93A7-3BDE761BBFC0}.Debug|x64.ActiveCfg = Debug|x64
+		{02CC806B-CD36-4F96-93A7-3BDE761BBFC0}.Debug|x64.Build.0 = Debug|x64
+		{02CC806B-CD36-4F96-93A7-3BDE761BBFC0}.Debug|x86.ActiveCfg = Debug|Win32
+		{02CC806B-CD36-4F96-93A7-3BDE761BBFC0}.Debug|x86.Build.0 = Debug|Win32
+		{02CC806B-CD36-4F96-93A7-3BDE761BBFC0}.Release|x64.ActiveCfg = Release|x64
+		{02CC806B-CD36-4F96-93A7-3BDE761BBFC0}.Release|x64.Build.0 = Release|x64
+		{02CC806B-CD36-4F96-93A7-3BDE761BBFC0}.Release|x86.ActiveCfg = Release|Win32
+		{02CC806B-CD36-4F96-93A7-3BDE761BBFC0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B89E9B6D-CA65-4235-A8EA-2C657DF33DA6}
+	EndGlobalSection
+EndGlobal

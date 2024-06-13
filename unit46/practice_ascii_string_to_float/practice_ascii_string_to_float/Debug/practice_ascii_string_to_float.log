@@ -1,0 +1,3 @@
+﻿  practice_ascii_string_to_float.c
+C:\Users\Lee\OneDrive\공부\전공독서\C언어 코딩도장\unit46\practice_ascii_string_to_float\practice_ascii_string_to_float\practice_ascii_string_to_float.c(9,20): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  practice_ascii_string_to_float.vcxproj -> C:\Users\Lee\OneDrive\공부\전공독서\C언어 코딩도장\unit46\practice_ascii_string_to_float\Debug\practice_ascii_string_to_float.exe

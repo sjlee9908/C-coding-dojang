@@ -1,0 +1,3 @@
+﻿  type_demotion_float_to_int.c
+C:\Users\Lee\OneDrive\공부\C언어 코딩도장\unit16\type_demotion_float_to_int\type_demotion_float_to_int\type_demotion_float_to_int.c(8,1): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  type_demotion_float_to_int.vcxproj -> C:\Users\Lee\OneDrive\공부\C언어 코딩도장\unit16\type_demotion_float_to_int\Debug\type_demotion_float_to_int.exe

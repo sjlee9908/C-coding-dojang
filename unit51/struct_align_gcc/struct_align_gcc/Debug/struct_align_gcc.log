@@ -1,0 +1,11 @@
+﻿  struct_align_gcc.c
+C:\Users\Lee\OneDrive\공부\전공독서\C언어 코딩도장\unit51\struct_align_gcc\struct_align_gcc\struct_align_gcc.c(6,17): error C2143: 구문 오류: ')'이(가) '(' 앞에 없습니다.
+C:\Users\Lee\OneDrive\공부\전공독서\C언어 코딩도장\unit51\struct_align_gcc\struct_align_gcc\struct_align_gcc.c(6,25): error C2143: 구문 오류: ')'이(가) '(' 앞에 없습니다.
+C:\Users\Lee\OneDrive\공부\전공독서\C언어 코딩도장\unit51\struct_align_gcc\struct_align_gcc\struct_align_gcc.c(6,25): error C2091: 함수가 함수를 반환합니다.
+C:\Users\Lee\OneDrive\공부\전공독서\C언어 코딩도장\unit51\struct_align_gcc\struct_align_gcc\struct_align_gcc.c(6,26): error C2143: 구문 오류: ')'이(가) '상수' 앞에 없습니다.
+C:\Users\Lee\OneDrive\공부\전공독서\C언어 코딩도장\unit51\struct_align_gcc\struct_align_gcc\struct_align_gcc.c(6,26): error C2091: 함수가 함수를 반환합니다.
+C:\Users\Lee\OneDrive\공부\전공독서\C언어 코딩도장\unit51\struct_align_gcc\struct_align_gcc\struct_align_gcc.c(6,26): error C2143: 구문 오류: '{'이(가) '상수' 앞에 없습니다.
+C:\Users\Lee\OneDrive\공부\전공독서\C언어 코딩도장\unit51\struct_align_gcc\struct_align_gcc\struct_align_gcc.c(6,26): error C2059: 구문 오류: '상수'
+C:\Users\Lee\OneDrive\공부\전공독서\C언어 코딩도장\unit51\struct_align_gcc\struct_align_gcc\struct_align_gcc.c(6,27): error C2059: 구문 오류: ')'
+C:\Users\Lee\OneDrive\공부\전공독서\C언어 코딩도장\unit51\struct_align_gcc\struct_align_gcc\struct_align_gcc.c(6,36): error C2059: 구문 오류: ')'
+C:\Users\Lee\OneDrive\공부\전공독서\C언어 코딩도장\unit51\struct_align_gcc\struct_align_gcc\struct_align_gcc.c(6,37): error C2059: 구문 오류: ')'

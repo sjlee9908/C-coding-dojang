@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "return_struct", "return_struct\return_struct.vcxproj", "{5877F0BB-399F-4226-B7BE-3427290CCFE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5877F0BB-399F-4226-B7BE-3427290CCFE6}.Debug|x64.ActiveCfg = Debug|x64
+		{5877F0BB-399F-4226-B7BE-3427290CCFE6}.Debug|x64.Build.0 = Debug|x64
+		{5877F0BB-399F-4226-B7BE-3427290CCFE6}.Debug|x86.ActiveCfg = Debug|Win32
+		{5877F0BB-399F-4226-B7BE-3427290CCFE6}.Debug|x86.Build.0 = Debug|Win32
+		{5877F0BB-399F-4226-B7BE-3427290CCFE6}.Release|x64.ActiveCfg = Release|x64
+		{5877F0BB-399F-4226-B7BE-3427290CCFE6}.Release|x64.Build.0 = Release|x64
+		{5877F0BB-399F-4226-B7BE-3427290CCFE6}.Release|x86.ActiveCfg = Release|Win32
+		{5877F0BB-399F-4226-B7BE-3427290CCFE6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D119AEB3-39B6-4C81-9E9E-5288516BCEE1}
+	EndGlobalSection
+EndGlobal

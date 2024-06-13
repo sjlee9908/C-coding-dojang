@@ -1,0 +1,6 @@
+﻿  integer_max_overflow.c
+C:\Users\LeeSeungJay\source\repos\integer_max_overflow\integer_max_overflow\integer_max_overflow.c(8,21): warning C4307: '+': 부호 있는 정수 계열 상수 오버플로입니다.
+C:\Users\LeeSeungJay\source\repos\integer_max_overflow\integer_max_overflow\integer_max_overflow.c(9,29): warning C4307: '+': 부호 있는 정수 계열 상수 오버플로입니다.
+C:\Users\LeeSeungJay\source\repos\integer_max_overflow\integer_max_overflow\integer_max_overflow.c(13,1): warning C4305: '초기화 중': 'int'에서 'unsigned char'(으)로 잘립니다.
+C:\Users\LeeSeungJay\source\repos\integer_max_overflow\integer_max_overflow\integer_max_overflow.c(14,1): warning C4305: '초기화 중': 'int'에서 'unsigned short'(으)로 잘립니다.
+  integer_max_overflow.vcxproj -> C:\Users\LeeSeungJay\source\repos\integer_max_overflow\Debug\integer_max_overflow.exe

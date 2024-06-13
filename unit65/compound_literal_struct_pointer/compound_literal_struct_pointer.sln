@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "compound_literal_struct_pointer", "compound_literal_struct_pointer\compound_literal_struct_pointer.vcxproj", "{1DA29C27-2198-441A-8700-B498DA868C29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DA29C27-2198-441A-8700-B498DA868C29}.Debug|x64.ActiveCfg = Debug|x64
+		{1DA29C27-2198-441A-8700-B498DA868C29}.Debug|x64.Build.0 = Debug|x64
+		{1DA29C27-2198-441A-8700-B498DA868C29}.Debug|x86.ActiveCfg = Debug|Win32
+		{1DA29C27-2198-441A-8700-B498DA868C29}.Debug|x86.Build.0 = Debug|Win32
+		{1DA29C27-2198-441A-8700-B498DA868C29}.Release|x64.ActiveCfg = Release|x64
+		{1DA29C27-2198-441A-8700-B498DA868C29}.Release|x64.Build.0 = Release|x64
+		{1DA29C27-2198-441A-8700-B498DA868C29}.Release|x86.ActiveCfg = Release|Win32
+		{1DA29C27-2198-441A-8700-B498DA868C29}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D47AA86-ED7E-4B7B-8B88-8082CDDBD19A}
+	EndGlobalSection
+EndGlobal

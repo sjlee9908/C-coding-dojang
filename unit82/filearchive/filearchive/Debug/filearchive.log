@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Lee\OneDrive\공부\전공독서\프로그래밍 언어\C언어 코딩도장\unit82\filearchive\filearchive\main.c(42): warning C4716: 'getFileSize': 값을 반환해야 합니다.
+C:\Users\Lee\OneDrive\공부\전공독서\프로그래밍 언어\C언어 코딩도장\unit82\filearchive\filearchive\main.c(47): warning C4716: 'append': 값을 반환해야 합니다.
+  filearchive.vcxproj -> C:\Users\Lee\OneDrive\공부\전공독서\프로그래밍 언어\C언어 코딩도장\unit82\filearchive\Debug\filearchive.exe

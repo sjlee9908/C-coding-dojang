@@ -1,0 +1,2 @@
+﻿  void_pointer_add_error.c
+C:\Users\Lee\OneDrive\공부\전공독서\프로그래밍 언어\명품 C++ Programming(생능출판, 황기태)\chapter6\void_pointer_add_error\void_pointer_add_error\void_pointer_add_error.c(9,22): error C2036: 'void *': 알 수 없는 크기입니다.

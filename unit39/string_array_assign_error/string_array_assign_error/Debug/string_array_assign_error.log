@@ -1,0 +1,2 @@
+﻿  string_array_assign_error.c
+C:\Users\Lee\OneDrive\공부\전공독서\C언어 코딩도장\unit39\string_array_assign_error\string_array_assign_error\string_array_assign_error.c(7,14): error C2106: '=': 왼쪽 피연산자는 l-value이어야 합니다.

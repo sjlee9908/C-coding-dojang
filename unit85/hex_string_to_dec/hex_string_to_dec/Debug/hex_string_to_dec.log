@@ -1,0 +1,5 @@
+﻿  hex_string_to_dec.cpp
+C:\Users\Lee\OneDrive\공부\전공독서\프로그래밍 언어\C언어 코딩도장\unit85\hex_string_to_dec\hex_string_to_dec\hex_string_to_dec.cpp(20,53): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Lee\OneDrive\공부\전공독서\프로그래밍 언어\C언어 코딩도장\unit85\hex_string_to_dec\hex_string_to_dec\hex_string_to_dec.cpp(26,60): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Lee\OneDrive\공부\전공독서\프로그래밍 언어\C언어 코딩도장\unit85\hex_string_to_dec\hex_string_to_dec\hex_string_to_dec.cpp(32,60): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  hex_string_to_dec.vcxproj -> C:\Users\Lee\OneDrive\공부\전공독서\프로그래밍 언어\C언어 코딩도장\unit85\hex_string_to_dec\Debug\hex_string_to_dec.exe
